@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/dev-server/node_modules
 /.pnp
 .pnp.js
 
@@ -18,6 +19,15 @@
 .env.test.local
 .env.production.local
 
+/e2e/output
+
+/.certs
+/.idea
+/.vscode
+/.lighthouseci
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+junit.xml

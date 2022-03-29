@@ -17,6 +17,7 @@
     "@types/react": "^17.0.43",
     "@types/react-dom": "^17.0.14",
     "editorconfig": "^0.15.3",
+    "formik": "^2.2.9",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.7",
     "prettier": "^2.6.1",
